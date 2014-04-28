@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Украинская биржа</string>
+    <string name="button_update">Обновить</string>
+    <string name="update_progress_message">Идет обновление данных</string>
+    <string name="network_warning">Нет подключения к Интернету</string>
+
+</resources>
